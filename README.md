@@ -4,7 +4,7 @@ Physics-Informed Neural Network (PINN) and Physics-Informed DeepONet (PI-DeepONe
 for identifying Fe₂O₃ reduction kinetics from sparse isothermal TGA data in
 chemical looping hydrogen generation (CLHG).
 
-**Preprint:** *submitted to ChemRxiv — link will be added upon publication*
+**Preprint:** [Physics-Informed Neural Networks and Operator Learning for Fe₂O₃ Reduction Kinetics Identification from Sparse Thermogravimetric Data](https://doi.org/10.26434/chemrxiv.15003636/v1) — ChemRxiv, May 2026
 
 ---
 
@@ -157,9 +157,8 @@ PI-DeepONet achieves 30× better generalisation than data-only at unseen tempera
 ## Citation
 
 If you use this code or data, please cite:
-Kiran, T. (2026). Physics-Informed Neural Networks and Operator Learning
-for Fe₂O₃ Reduction Kinetics Identification from Sparse Thermogravimetric Data.
-ChemRxiv. [DOI will be added upon publication]
+Kiran Thammina. Physics-Informed Neural Networks and Operator Learning for Fe2O3 Reduction Kinetics Identification from Sparse Thermogravimetric Data. ChemRxiv. 20 May 2026.
+DOI: https://doi.org/10.26434/chemrxiv.15003636/v1
 
 And the original TGA data source:
 
